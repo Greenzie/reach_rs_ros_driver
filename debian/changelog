@@ -1,4 +1,4 @@
-ros-melodic-reach-rs-driver (0.0.7-1bionic) UNRELEASED; urgency=medium
+ros-melodic-reach-rs-driver (0.0.7-1bionic) bionic; urgency=medium
 
   * Switch to Ubuntu-style bionic from Debian-style unstable
 
