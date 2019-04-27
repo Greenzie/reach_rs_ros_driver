@@ -1,6 +1,7 @@
 ros-melodic-reach-rs-driver (0.0.7-1bionic) bionic; urgency=medium
 
   * Switch to Ubuntu-style bionic from Debian-style unstable
+  * Debcompat level 10
 
  -- nick black <dankamongmen@gmail.com>  Thu, 25 Apr 2019 07:01:42 -0400
 
