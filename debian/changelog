@@ -1,3 +1,9 @@
+ros-melodic-reach-rs-driver (0.0.10-1bionic) bionic; urgency=medium
+
+  * May build
+
+ -- nick black <dankamongmen@gmail.com>  Fri, 31 May 2019 14:53:41 -0400
+
 ros-melodic-reach-rs-driver (0.0.7-1bionic) bionic; urgency=medium
 
   * Switch to Ubuntu-style bionic from Debian-style unstable
