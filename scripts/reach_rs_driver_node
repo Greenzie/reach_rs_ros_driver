@@ -40,7 +40,7 @@ from enway_reach_rs_driver.reach_rs_driver import ReachRsDriver
 
 if __name__ == '__main__':
 	rospy.init_node('reach_rs_driver')
-	
+
 	try:
 		reachRsDriver = ReachRsDriver()
 		reachRsDriver.run()

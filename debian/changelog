@@ -1,3 +1,9 @@
+ros-melodic-reach-rs-driver (0.0.12-1bionic) bionic; urgency=medium
+
+  * June build
+
+ -- nick black <dankamongmen@gmail.com>  Mon, 24 Jun 2019 07:08:53 -0400
+
 ros-melodic-reach-rs-driver (0.0.10-1bionic) bionic; urgency=medium
 
   * May build
