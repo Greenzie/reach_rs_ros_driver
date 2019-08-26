@@ -1,4 +1,4 @@
-Source: reach-rs-driver
+Source: ros-melodic-reach-rs-driver
 Section: misc
 Priority: optional
 Maintainer: Jacob Seibert <jacob.seibert@enway.ai>
