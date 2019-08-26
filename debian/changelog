@@ -1,3 +1,9 @@
+ros-melodic-reach-rs-driver (0.0.12-bionic1) bionic; urgency=medium
+
+  * Fix package naming
+
+ -- nick black <dankamongmen@gmail.com>  Mon, 26 Aug 2019 05:04:43 -0400
+
 ros-melodic-reach-rs-driver (0.0.12-1bionic) bionic; urgency=medium
 
   * June build
